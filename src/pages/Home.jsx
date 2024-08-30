@@ -23,11 +23,15 @@ const HomePage = () => {
       <div className="px-5 xl:px-24 py-12 lg:flex">
         <div className="flex flex-col lg:justify-center lg:w-1/2 lg:pr-10">
           <h4 className="text-5xl pb-4 font-medium text-purple-100">
-            Close deals faster, focus on the legal tasks that matter
+            Unlock Your Business Potential with our AI-Powered Market
+            Intelligence
           </h4>
           <p className="text-xl pb-10">
-            Ervis helps legal teams minimize the time spent on legal processes
-            by harnessing the power of AI
+            Introducing GrowthForge.ai—an AI-powered platform revolutionizing
+            the go-to-market (GTM) process for startups, SMEs, and tech
+            companies. By blending cutting-edge technology with data-driven
+            insights, our platform empowers businesses to unlock new levels of
+            growth and operational efficiency.
           </p>
           <a
             class="w-36 md:w-40 xl:w-44 h-14 xl:h-16 flex items-center justify-center md:text-lg bg-blue-100 text-white"
@@ -45,47 +49,58 @@ const HomePage = () => {
       <div class="px-5 xl:px-24 pt-16 bg-gradient">
         <div class="flex flex-col lg:flex-row lg:pb-14">
           <div class="text-5xl pb-12 lg:pb-0 lg:pr-12 lg:w-1/2 font-medium text-white">
-            Dive into the new age of contract management
+            AI-Powered Market Analysis
           </div>
           <div class="text-xl lg:text-lg pb-16 lg:pb-0 lg:pt-2 lg:w-1/2 text-white">
-            Effortlessly draft, review, negotiate and sign legal contracts with
-            Ervis. Our AI technology simplifies your contract process, saving
-            time and enhancing accuracy in contract processes.
+            Stay ahead of the competition by leveraging AI to dive deep into
+            market trends, customer segments, and competitor strategies. Gain
+            actionable insights that pave the way for strategic market entry and
+            ensure your business is always a step ahead.
           </div>
         </div>
         <div class="flex flex-col lg:flex-row lg:items-end gap-2">
           <div class="h-96 px-8 pt-24 lg:w-1/3 bg-blue-100 text-white">
-            <div class="text-3xl pb-5 font-bold">Draft</div>
+            <div class="text-3xl pb-5 font-bold">Automated Lead Generation</div>
             <div>
-              Create legal contracts with the click of a button from templates
-              within seconds. Alternatively, import your counterpart templates
-              from Word, Google doc, PDF or even a webpage.
+              Say goodbye to manual lead hunting. Our AI-driven lead scoring
+              system identifies and prioritizes your highest-potential leads,
+              automating outreach and maximizing your conversion rates. Watch as
+              your pipeline fills with quality prospects, effortlessly.
             </div>
           </div>
           <div class="h-96 px-8 pt-24 lg:w-1/3 bg-blue-200 text-blue-100">
-            <div class="text-3xl pb-5 font-bold">Review</div>
+            <div class="text-3xl pb-5 font-bold">
+              Sales Pipeline Optimization
+            </div>
             <div>
-              Ervis' cutting-edge AI swiftly reviews and analyses contracts,
-              ensuring accuracy, compliance, and efficiency. Our intelligent
-              system identifies critical clauses and potential negotiation
-              areas, transforming how you handle legal documents.
+              Transform your sales process with real-time AI insights. Analyze
+              sales data, automate follow-ups, and optimize every step of the
+              journey. Our platform helps you quickly identify opportunities,
+              track job changes, and re-engage with potential customers—boosting
+              efficiency and closing deals faster.
             </div>
           </div>
           <div class="h-96 px-8 pt-24 lg:w-1/3 bg-blue-200 text-blue-100">
-            <div class="text-3xl pb-5 font-bold">Generate</div>
+            <div class="text-3xl pb-5 font-bold">
+              Personalized Customer Engagement
+            </div>
             <div>
-              Generate alternate clauses while automatically marking up contract
-              based on instructions in the contract native language.
+              Deliver exceptional customer experiences with AI-powered
+              personalization. Our platform enhances every interaction, offering
+              tailored content and targeted experiences that resonate with your
+              audience, driving loyalty and growth.
             </div>
           </div>
         </div>
       </div>
 
-      <img src="../../images/testimonial.png" class="px-5 xl:px-24" alt=""/>
+      <img src="../../images/testimonial.png" class="px-5 xl:px-24" alt="" />
 
       <div class="flex flex-col lg:flex-row lg:px-40 h-80 px-8 bg-blue-100 advert_bg_image bg-no-repeat bg-cover bg-center justify-center items-center">
         <div class="text-2xl lg:text-4xl pb-8 lg:pb-0 lg:pr-24 font-medium lg:font-bold text-center lg:text-left text-white lg:w-2/3">
-          Be the first to Experience AI-Powered Contract Review
+          Be the first to experience the power of AI-driven go-to-market
+          strategies. Sign up now to secure your spot and unlock exclusive
+          access to our platform before it launches.
         </div>
         <a
           class="w-40 md:w-44 h-14 xl:h-16 flex items-center justify-center md:text-lg bg-white text-darkblue"
