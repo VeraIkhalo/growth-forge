@@ -3,13 +3,9 @@ import React from "react";
 const HomePage = () => {
   return (
     <section>
-      <div className="flex items-center justify-between h-32 px-5 xl:px-24">
+      <div className="flex items-center justify-between h-32 px-5 xl:px-20">
         <a href="/">
-          <img
-            src="../../images/growth-forge-logo.jpeg"
-            className="w-56 md:w-64 xl:w-72"
-            alt=""
-          />
+          <p className="text-lg md:text-3xl xl:text-4xl text-purple-100">GrowthForge.ai</p>
         </a>
         <a
           href=""
