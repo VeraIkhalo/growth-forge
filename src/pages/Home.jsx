@@ -12,7 +12,7 @@ const HomePage = () => {
           />
         </a>
         <a
-          href="https://docs.google.com/document/d/1JTsCYpQx-nYcaS05rGkT8fLmbGEgO-FX6xzd-QVdAtI/edit"
+          href=""
           target="_blank"
           className="w-36 md:w-40 xl:w-44 h-14 xl:h-16 flex items-center justify-center bg-blue-100 text-white text-lg"
         >
@@ -35,7 +35,7 @@ const HomePage = () => {
           </p>
           <a
             class="w-36 md:w-40 xl:w-44 h-14 xl:h-16 flex items-center justify-center md:text-lg bg-blue-100 text-white"
-            href="https://qhtbmipglyz.typeform.com/to/j10bYwYY"
+            href=""
             target="_blank"
           >
             Join the waitlist
@@ -104,7 +104,7 @@ const HomePage = () => {
         </div>
         <a
           class="w-40 md:w-44 h-14 xl:h-16 flex items-center justify-center md:text-lg bg-white text-darkblue"
-          href="https://docs.google.com/document/d/1JTsCYpQx-nYcaS05rGkT8fLmbGEgO-FX6xzd-QVdAtI/edit"
+          href=""
           target="_blank"
         >
           Join the waitlist
