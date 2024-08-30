@@ -20,7 +20,7 @@ const HomePage = () => {
         </a>
       </div>
 
-      <div className="px-5 xl:px-24 py-12 lg:flex">
+      <div className="px-5 xl:px-20 py-12 lg:flex">
         <div className="flex flex-col lg:justify-center lg:w-1/2 lg:pr-10">
           <h4 className="text-5xl pb-4 font-medium text-purple-100">
             Unlock Your Business Potential with our AI-Powered Market
@@ -46,7 +46,7 @@ const HomePage = () => {
         </div>
       </div>
 
-      <div class="px-5 xl:px-24 pt-16 bg-gradient">
+      <div class="px-5 xl:px-16 pt-16 bg-gradient">
         <div class="flex flex-col lg:flex-row lg:pb-14">
           <div class="text-5xl pb-12 lg:pb-0 lg:pr-12 lg:w-1/2 font-medium text-white">
             AI-Powered Market Analysis
@@ -96,7 +96,7 @@ const HomePage = () => {
 
       <img src="../../images/testimonial.png" class="px-5 xl:px-24" alt="" />
 
-      <div class="flex flex-col lg:flex-row lg:px-40 h-80 px-8 bg-blue-100 advert_bg_image bg-no-repeat bg-cover bg-center justify-center items-center">
+      <div class="flex flex-col lg:flex-row lg:px-20 h-80 px-8 bg-blue-100 advert_bg_image bg-no-repeat bg-cover bg-center justify-center items-center">
         <div class="text-2xl lg:text-4xl pb-8 lg:pb-0 lg:pr-24 font-medium lg:font-bold text-center lg:text-left text-white lg:w-2/3">
           Be the first to experience the power of AI-driven go-to-market
           strategies. Sign up now to secure your spot and unlock exclusive
