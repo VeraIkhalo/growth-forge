@@ -3,8 +3,8 @@
 @import 'tailwindcss/utilities';
 
 * {
-    font-family: Epilogue;
+    font-family: "Work Sans", sans-serif;
 }
 .bg-gradient {
-    background: linear-gradient(79.5deg, #461852, #3f37c9 49.11%, #4cc9f0);
+    background: linear-gradient(79.5deg, #10029a 49.11%, #3fdbf0);
 }

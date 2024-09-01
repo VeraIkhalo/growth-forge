@@ -6,18 +6,14 @@ module.exports = {
     theme: {
         extend: {
           colors: {
-            black: {
-              DEFAULT: "#000",
-              100: "#232323",
-              
-            },
+            
             blue:{
-              100: "#060624",
-              200: "#E4F9FF",
+              100: "#000000",
+              200: "#c0fcfb",
               
             },
             purple:{
-                100: "#4131B2"
+                100: "#10029a"
             },
             grey: {
               100: "#999999"
