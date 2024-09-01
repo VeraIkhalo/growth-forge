@@ -14,14 +14,17 @@ const HomePage = () => {
         <a
           href="https://forms.office.com/r/eNJnzf3XLx"
           target="_blank"
-          className="w-36 md:w-40 xl:w-44 h-14 xl:h-16 flex items-center justify-center bg-blue-100 text-white text-lg"
+          className="w-36 md:w-40 xl:w-44 h-14 xl:h-16 flex items-center justify-center bg-blue-300 text-white text-lg"
         >
           Join the waitlist
         </a>
       </div>
 
       <div className="px-5 xl:px-20 py-12 lg:flex items-center">
-        <div className="flex flex-col lg:justify-center lg:w-1/2 lg:pr-10">
+      <div class="pt-12 lg:pt-0 lg:w-1/2 lg:pr-10">
+          <img src="../../images/output-onlinepngtools.png" alt="" />
+        </div>
+        <div className="flex flex-col lg:justify-center lg:w-1/2 ">
           <h4 className="text-5xl pb-4 font-medium text-purple-100">
             Unlock Your Business with AI-Powered Market Intelligence
           </h4>
@@ -32,19 +35,17 @@ const HomePage = () => {
             insights.
           </p>
           <a
-            class="w-36 md:w-40 xl:w-44 h-14 xl:h-16 flex items-center justify-center md:text-lg bg-blue-100 text-white"
+            class="w-36 md:w-40 xl:w-44 h-14 xl:h-16 flex items-center justify-center md:text-lg bg-blue-300 text-white"
             href="https://forms.office.com/r/eNJnzf3XLx"
             target="_blank"
           >
             Join the waitlist
           </a>
         </div>
-        <div class="pt-12 lg:pt-0 lg:w-1/2">
-          <img src="../../images/output-onlinepngtools.png" alt="" />
-        </div>
+        
       </div>
 
-      <div class="px-5 xl:px-16 pt-16 bg-gradient">
+      <div class="px-5 xl:px-16 pt-16 pb-4 bg-gradient">
         <div class="flex flex-col lg:flex-row lg:pb-14">
           <div class="text-5xl pb-12 lg:pb-0 lg:pr-12 lg:w-1/2 font-medium text-white">
             AI-Powered Market Analysis
@@ -57,7 +58,7 @@ const HomePage = () => {
           </div>
         </div>
         <div class="flex flex-col lg:flex-row lg:items-end gap-2">
-          <div class="h-[480px] md:h-[580px] lg:h-[580px] xl:h-[500px] px-4 pt-12 lg:w-1/4 lg:w-1/4 bg-blue-100 text-white">
+          <div class="h-[480px] md:h-[580px] lg:h-[580px] xl:h-[500px] px-4 pt-12 lg:w-1/4 bg-white text-blue-100">
             <div class="text-3xl pb-5 font-bold">
               Automated Lead Generation{" "}
               <span style={{ color: "transparent" }}>Personalized</span>
@@ -69,7 +70,7 @@ const HomePage = () => {
               your pipeline fills with quality prospects, effortlessly.
             </div>
           </div>
-          <div class="h-[480px] md:h-[580px] lg:h-[580px] xl:h-[500px] px-4 pt-12 lg:w-1/4 bg-blue-200 text-blue-100">
+          <div class="h-[480px] md:h-[580px] lg:h-[580px] xl:h-[500px] px-4 pt-12 lg:w-1/4 bg-white text-blue-100">
             <div class="text-3xl pb-5 font-bold">
               Sales Pipeline Optimization{" "}
               <span style={{ color: "transparent" }}>Personalized</span>
@@ -82,7 +83,7 @@ const HomePage = () => {
               efficiency and closing deals faster.
             </div>
           </div>
-          <div class="h-[480px] md:h-[580px] lg:h-[580px] xl:h-[500px] px-4 pt-12 lg:w-1/4 bg-blue-200 text-blue-100">
+          <div class="h-[480px] md:h-[580px] lg:h-[580px] xl:h-[500px] px-4 pt-12 lg:w-1/4 bg-white text-blue-100">
             <div class="text-3xl pb-5 font-bold">
               Personalized Customer Engagement
             </div>
@@ -93,7 +94,7 @@ const HomePage = () => {
               audience, driving loyalty and growth.
             </div>
           </div>
-          <div class="h-[480px] md:h-[580px] lg:h-[580px] xl:h-[500px] px-4 pt-12 lg:w-1/4 bg-blue-200 text-blue-100">
+          <div class="h-[480px] md:h-[580px] lg:h-[580px] xl:h-[500px] px-4 pt-12 lg:w-1/4 bg-white text-blue-100">
             <div class="text-3xl pb-5 font-bold">
               Amplify Your ROI with Data-Driven Efficiency
             </div>
@@ -117,8 +118,8 @@ const HomePage = () => {
       </div>
 
       <div class="flex flex-col lg:flex-row lg:px-20 h-[500px] md:h-80 lg:h-80 px-8 bg-blue-100 advert_bg_image bg-no-repeat bg-cover bg-center justify-center items-center">
-        <div class="text-2xl lg:text-4xl pb-8 lg:pb-0 lg:pr-24 font-medium lg:font-bold text-center lg:text-left text-white lg:w-2/3">
-          Sign up now for first and exclusive early access!
+        <div class="text-2xl lg:text-3xl pb-8 lg:pb-0 lg:pr-24 font-medium lg:font-bold text-center lg:text-left text-white lg:w-2/3">
+        Secure your spot now and unlock exclusive access to our platform before it launches. Don't miss the chance to transform your business—join the waitlist today!
         </div>
         <a
           class="w-40 md:w-44 h-14 xl:h-16 flex items-center justify-center md:text-lg bg-white text-darkblue"
