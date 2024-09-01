@@ -47,7 +47,7 @@ const HomePage = () => {
       <div class="px-5 xl:px-16 pt-16 bg-gradient">
         <div class="flex flex-col lg:flex-row lg:pb-14">
           <div class="text-5xl pb-12 lg:pb-0 lg:pr-12 lg:w-1/2 font-medium text-white">
-            AI-Powered Market Analysis 
+            AI-Powered Market Analysis
           </div>
           <div class="text-xl lg:text-lg pb-16 lg:pb-0 lg:pt-2 lg:w-1/2 text-white">
             Stay ahead of the competition by leveraging AI to dive deep into
@@ -58,7 +58,10 @@ const HomePage = () => {
         </div>
         <div class="flex flex-col lg:flex-row lg:items-end gap-2">
           <div class="h-[480px] md:h-[580px] lg:h-[580px] xl:h-[500px] px-4 pt-12 lg:w-1/4 lg:w-1/4 bg-blue-100 text-white">
-            <div class="text-3xl pb-5 font-bold">Automated Lead Generation <span style={{color:"transparent"}}>Personalized</span></div>
+            <div class="text-3xl pb-5 font-bold">
+              Automated Lead Generation{" "}
+              <span style={{ color: "transparent" }}>Personalized</span>
+            </div>
             <div>
               Say goodbye to manual lead hunting. Our AI-driven lead scoring
               system identifies and prioritizes your highest-potential leads,
@@ -68,7 +71,8 @@ const HomePage = () => {
           </div>
           <div class="h-[480px] md:h-[580px] lg:h-[580px] xl:h-[500px] px-4 pt-12 lg:w-1/4 bg-blue-200 text-blue-100">
             <div class="text-3xl pb-5 font-bold">
-              Sales Pipeline Optimization <span style={{color:"transparent"}}>Personalized</span>
+              Sales Pipeline Optimization{" "}
+              <span style={{ color: "transparent" }}>Personalized</span>
             </div>
             <div>
               Transform your sales process with real-time AI insights. Analyze
@@ -94,12 +98,11 @@ const HomePage = () => {
               Amplify Your ROI with Data-Driven Efficiency
             </div>
             <div>
-              GrowthForge.ai is not just about automation—it's about amplifying
-              your return on investment (ROI) across the entire go-to-market
-              process. By improving key metrics like Customer Acquisition Cost
+              GrowthForge.ai amplifies your ROI across the entire go-to-market
+              process. By optimizing metrics like Customer Acquisition Cost
               (CAC), Lifetime Value (LTV), and Net Revenue Retention (NRR), our
-              platform ensures you achieve more with less effort, driving
-              sustainable growth and profitability.
+              platform helps you achieve more with less, driving sustainable
+              growth
             </div>
           </div>
         </div>
